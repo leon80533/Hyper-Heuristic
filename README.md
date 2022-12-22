@@ -4,4 +4,4 @@
 
 **Q_Learning.py** the algorithmn used and result
 
-Need to activate the py4j server to execute this code.
+Need first run the jar file and activate the py4j server to execute this code.
